@@ -9,7 +9,6 @@ int main(){
             even++;
         }else if(N%2!=0){
             odd++;
-        }else{          
         }
     }
     cout << "#Even numbers = "<<even<<endl;
